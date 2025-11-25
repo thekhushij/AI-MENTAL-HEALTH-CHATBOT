@@ -1,3 +1,11 @@
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.10-blue">
+  <img src="https://img.shields.io/badge/NLP-Project-green">
+  <img src="https://img.shields.io/badge/ML-Chatbot-orange">
+  <img src="https://img.shields.io/badge/Status-Active-success">
+  <img src="https://img.shields.io/badge/Platform-GitHub-black">
+</p>
+
 # 🌿 Mental Health Support Chatbot
 *A machine-learning powered conversational assistant for emotional wellbeing*
 
