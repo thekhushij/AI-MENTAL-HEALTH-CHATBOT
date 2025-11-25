@@ -1,3 +1,13 @@
 gradio
 langchain
 langchain-groq
+numpy
+pandas
+scikit-learn
+nltk
+spacy
+torch
+transformers
+sentencepiece
+protobuf
+tqdm
